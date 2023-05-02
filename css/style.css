@@ -1,0 +1,8 @@
+.box {
+	position: relative;
+}
+.bg-wraper {
+	position: absolute;
+	left: 150px;
+	top: 87px;
+}

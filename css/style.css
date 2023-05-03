@@ -9,12 +9,12 @@
 .title-h5 {
 	color: white;
 	font-size: 40px;
+	transition-property: all;
+	transition-delay:0.5s;
+	transition-timing-function: linear;
 }
 .title-h5:hover{
 	color: green;
 	background: blue;
-	transition-property: all;
-	transition-delay:0.5s;
-	transition-timing-function: linear;
-	
+
 }
